@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @carsonharne
+- 👀 I’m focused in Web Accessibility and Document Remediation!
+- 🌱 I’m currently learning Brazilian Portuguese, and Angular 17 features!
+- 💞️ I’m looking to collaborate on web or webapp projects.
+- 📫 How to reach me: harnecarson@gmail.com
+- 😄 Pronouns: he / him
+- ⚡ Fun fact: Since 2019, there has been a 13% year-on-year increase in web accessibility-related lawsuits.
