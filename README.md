@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Carson Harne!
 - 👀 I’m focused in Web Accessibility and Document Remediation!
-- 🌱 I’m currently learning Brazilian Portuguese, and Angular 17 features!
-- 💞️ I’m looking to collaborate on web or webapp projects.
+- 🌱 I’m currently learning Brazilian Portuguese, and Database Administration.
 - 📫 How to reach me: harnecarson@gmail.com
