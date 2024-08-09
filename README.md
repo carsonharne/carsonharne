@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Carson Harne!
-- 👀 I’m focused in Web Accessibility and Document Remediation!
+- 👀 I’m focused on Web Accessibility and Document Remediation!
 - 🌱 I’m currently learning Section 508 Testing, as well as JAWS, NVDA, and VoiceOver.
 - 📫 How to reach me: harnecarson@gmail.com
