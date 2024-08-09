@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Carson Harne!
 - 👀 I’m focused in Web Accessibility and Document Remediation!
-- 🌱 I’m currently learning Brazilian Portuguese, and Database Administration.
+- 🌱 I’m currently learning Database Administration and the Elastic stack.
 - 📫 How to reach me: harnecarson@gmail.com
